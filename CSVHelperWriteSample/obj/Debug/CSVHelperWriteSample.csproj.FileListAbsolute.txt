@@ -1,0 +1,22 @@
+C:\Users\Carlos Ferreira\Desktop\Testing\CSVHelperWriteSample\CSVHelperWriteSample\bin\Debug\CSVHelperWriteSample.exe.config
+C:\Users\Carlos Ferreira\Desktop\Testing\CSVHelperWriteSample\CSVHelperWriteSample\obj\Debug\CSVHelperWriteSample.csprojResolveAssemblyReference.cache
+C:\Users\Carlos Ferreira\Desktop\Testing\CSVHelperWriteSample\CSVHelperWriteSample\bin\Debug\CSVHelperWriteSample.exe
+C:\Users\Carlos Ferreira\Desktop\Testing\CSVHelperWriteSample\CSVHelperWriteSample\bin\Debug\CSVHelperWriteSample.pdb
+C:\Users\Carlos Ferreira\Desktop\Testing\CSVHelperWriteSample\CSVHelperWriteSample\bin\Debug\CsvHelper.dll
+C:\Users\Carlos Ferreira\Desktop\Testing\CSVHelperWriteSample\CSVHelperWriteSample\bin\Debug\CsvHelper.pdb
+C:\Users\Carlos Ferreira\Desktop\Testing\CSVHelperWriteSample\CSVHelperWriteSample\bin\Debug\CsvHelper.xml
+C:\Users\Carlos Ferreira\Desktop\Testing\CSVHelperWriteSample\CSVHelperWriteSample\obj\Debug\CSVHelperWriteSample.exe
+C:\Users\Carlos Ferreira\Desktop\Testing\CSVHelperWriteSample\CSVHelperWriteSample\obj\Debug\CSVHelperWriteSample.pdb
+C:\Users\Carlos Ferreira\Desktop\Testing\CSVHelperWriteSample\CSVHelperWriteSample\bin\Debug\countrylist.csv
+C:\Users\Mola\Desktop\CSVHelperWriteSample\CSVHelperWriteSample\bin\Debug\countrylist.csv
+C:\Users\Mola\Desktop\CSVHelperWriteSample\CSVHelperWriteSample\bin\Debug\CSVHelperWriteSample.exe.config
+C:\Users\Mola\Desktop\CSVHelperWriteSample\CSVHelperWriteSample\bin\Debug\CSVHelperWriteSample.exe
+C:\Users\Mola\Desktop\CSVHelperWriteSample\CSVHelperWriteSample\bin\Debug\CSVHelperWriteSample.pdb
+C:\Users\Mola\Desktop\CSVHelperWriteSample\CSVHelperWriteSample\bin\Debug\CsvHelper.dll
+C:\Users\Mola\Desktop\CSVHelperWriteSample\CSVHelperWriteSample\bin\Debug\CsvHelper.xml
+C:\Users\Mola\Desktop\CSVHelperWriteSample\CSVHelperWriteSample\obj\Debug\CSVHelperWriteSample.csproj.CoreCompileInputs.cache
+C:\Users\Mola\Desktop\CSVHelperWriteSample\CSVHelperWriteSample\obj\Debug\CSVHelperWriteSample.exe
+C:\Users\Mola\Desktop\CSVHelperWriteSample\CSVHelperWriteSample\obj\Debug\CSVHelperWriteSample.pdb
+C:\Users\Mola\Desktop\CSVHelperWriteSample\CSVHelperWriteSample\obj\Debug\CSVHelperWriteSample.csprojResolveAssemblyReference.cache
+C:\Users\Mola\Desktop\CSVHelperWriteSample\CSVHelperWriteSample\bin\Debug\Beispiel.csv
+C:\Users\Mola\Desktop\CSVHelperWriteSample\CSVHelperWriteSample\bin\Debug\Beispiel - Kopieren.csv
